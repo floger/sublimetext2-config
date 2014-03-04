@@ -1,0 +1,3 @@
+这是一个适合自己的关于sublime-text-2的配置Packages文件
+
+这是一个完整关于sublime packgae文件
